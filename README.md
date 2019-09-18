@@ -1,6 +1,6 @@
 # Ember Octane Workshop Austin: Shlack
 
-This is the project used for the <a title="Ember Octane" href="https://emberjs.com/editions/octane/">Ember Octane</a> workshop in Austin, TX, where we use parts of <a title="Mike North's" href="https://github.com/mike-north">Mike North's</a> course build a chat app together
+This is the project used for the <a title="Ember Octane" href="https://emberjs.com/editions/octane/">Ember Octane</a> workshop in Austin, TX, where we use parts of <a title="Mike North's" href="https://github.com/mike-north">Mike North's</a> course to build a chat app together.
 
 ![](./notes/img/app.png)
 
@@ -91,7 +91,7 @@ ember serve
 
 ### Code Generators
 
-Make use of the many built-in Ember-CLI generators to get files that follow the latest practices (with matching tests\_. To see available generators, run `ember help generate`
+Make use of the many built-in Ember-CLI generators to get files that follow the latest practices (with matching tests). To see available generators, run `ember help generate`
 
 ### Running Tests
 
